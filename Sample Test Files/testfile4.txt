@@ -1,0 +1,74 @@
+Brief History and Introduction:
+A great computer scientist named “Dennis Ritchie” created a programming
+language called 'C' at the Bell Laboratories in 1972. It was created from
+'ALGOL', 'BCPL' and 'B'
+programming languages which were created before ‘C’. 'C' programming
+language contains all the features of these languages and many more
+additional concepts and features
+that make it unique from other languages.
+'C' is a powerful programming language and it is strongly associated with the
+UNIX operating system and even most of the UNIX operating system is coded
+in 'C'. Initially
+at starting 'C' programming was limited to the UNIX operating system, but as it
+started spreading around the world, it became commercial, and many
+compilers were released
+for cross-platform systems.
+
+Now a day’s 'C' runs under a variety of operating systems and hardware
+platforms. As it was started evolving, many different versions of the language
+were released.
+In past, At times it became difficult for the developers to keep up with the
+latest version as the systems were running under the older versions. To assure
+that it will
+remain standard, American National Standards Institute (ANSI) defined a
+commercial standard for 'C' language in 1989. Later, it was approved by the
+International
+Standards Organization (ISO) in 1990. 'C' programming language is also called
+as 'ANSI C'.
+Languages such as C++/Java were developed from 'C'. These languages are
+widely used in various technologies and applications. Thus, 'C' forms a base for
+many other
+programming languages that are currently in use.
+Strength of C programming language:
+C is a powerful and more efficient language as it contains many data types and
+operators to perform all kind of operations. It is widely used in embedded
+systems also.
+C is very flexible or we can say it is machine independent that helps you to run
+your code on any machine without making any change or just a few changes in
+your code.
+A crucial ability of C is to extend itself. It has its own sets of built in functions in
+the C library, therefore it becomes easy to use these functions. We can also
+add our own functions to the C standard library and makes code simpler.
+C is structure based. It means that the issues or complex problems can be
+divided into smaller blocks or functions. This modular structure of ‘C’ helps in
+easier and
+simpler testing and maintenance.
+'C' contains 32 keywords, various data types and a set of powerful built-in
+functions that make programming very efficient for user.
+
+C is a middle level programming language that means it supports high-level
+programming as well low level programming language. It supports the use of
+kernels and drivers
+in low programming and also supports system software applications in the high
+level programming language.
+The use of algorithms and data structures in C has made program
+computations very fast and smooth. Thus, the C language can be used in the
+complex calculations and
+operations such as MATLAB.
+C language is case-sensitive which means lowercase and uppercases letters are
+treated differently in C language.
+
+C provides dynamic memory allocation that allows you to allocate memory at
+run time. For example, if you don’t know how much memory required by
+objects in your
+program, you can still run a program in C and assign the memory at the same
+time.
+C is very portable language. Different components of windows, UNIX, and Linux
+systems are written in C and many other complex programs like Oracle
+database, Git,
+python interpreter and more also written in C.
+C is a general purpose language, so we can use C for game design, graphics,
+enterprise applications etc.
+C is a base for the computer programming. If you know 'C’ then it is easy for
+you to easily grasp the knowledge of the other programming languages that
+uses the concepts of 'C'.

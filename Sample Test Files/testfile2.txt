@@ -1,0 +1,45 @@
+The C programming language came out of Bell Labs
+in the early 1970s. The development of the C
+language by Dennis Ritchie.
+What is C language?
+C is a general – purpose programming
+language that is extremely popular, simple , and flexible to
+use. It is structured programming language that is machine
+independent and extensively used to write various
+application , Operating System like windows , and many
+
+other complex programs like Oracle database , Git , Python
+interpreter , and more.
+Its Importance :
+There are plenty reasons to believe that C
+programming has remain active for a long time and will also.
+There are many programming language that allow
+developers to be more productive that with c for different
+kinds of projects. Here are some reasons that c is
+unbeatable , and almost mandatory , for certain
+applications.
+C is a great language for expressing common ideas inprogramming in a way
+that most people are comfortable
+with.
+C is almost a portable assembly language. It is as close
+to the machine as possible while it is almost universally
+available for existing processor architecture.
+A lot of the principle used in C for instance and for
+command line parameters as well as loop constructs
+and variable types.
+C remains the most popular programming language
+language for programming microcontrollers in
+embedded systems.
+C compilers can produce highly efficient code.
+There are only 32 keywords; several standard function
+are available which can be used for developing
+programs
+C is portable language; this means that c programs
+
+written for one computer can be run on another system,
+with little or no modification.
+C language is small and relatively easy to learn. Its
+mandatory to learn C for beginners.
+C has been used to implement several major operating
+systems and Kernels , including Unix , Linux , MacOS ,
+and Windows.C language has its ability to extend itself.

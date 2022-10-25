@@ -1,0 +1,92 @@
+Strength of c programming language over other languages and reason for its
+relevance.
+good reasons for that. Many of the C projects that exist today were started
+decades ago.
+The UNIX operating system’s development started in 1969, and its code was
+rewritten in C in
+1972. The C language was actually created to move the UNIX kernel code from
+assembly to a
+higher level language, which would do the same tasks with fewer lines of code.
+Oracle database development started in 1977, and its code was rewritten from
+assembly to C
+in 1983. It became one of the most popular databases in the world.
+In 1985 Windows 1.0 was released. Although Windows source code is not
+publicly available,
+it’s been stated that its kernel is mostly written in C, with some parts in
+assembly. Linux
+kernel development started in 1991, and it is also written in C. The next year, it
+was released
+under the GNU license and was used as part of the GNU Operating System. The
+GNU
+
+operating system itself was started using C and Lisp programming languages,
+so many of its
+components are written in C.
+But C programming isn’t limited to projects that started decades ago, when
+there weren’t as
+many programming languages as today. Many C projects are still started today;
+there are
+some
+How is the World Powered by C?
+Despite the prevalence of higher-level languages, C continues to empower the
+world. The
+following are some of the systems that are used by millions and are
+programmed in the C
+language.Linux is also written mostly in C, with some parts in assembly. About
+97 percent of
+the world’s 500 most powerful supercomputers run the Linux kernel. It is also
+used in many
+personal computers.
+Mac Mac computers are also powered by C, since the OS X kernel is written
+mostly in C. Every
+program and driver in a Mac, as in Windows and Linux computers, is running
+on a C powered kernel.
+Mobile
+iOS, Android and Windows Phone kernels are also written in C. They are just
+mobile
+adaptations of existing Mac OS, Linux and Windows kernels. So smartphones
+you
+use every day are running on a C kernel.
+Databases.
+
+The world’s most popular databases, including Oracle Database, MySQL, MS
+SQL
+Server, and PostgreSQL, are coded in C (the first three of them actually both in
+C and
+C++).
+Databases are used in all kind of systems: financial, government, media,
+entertainment, telecommunications, health, education, retail, social networks,
+web,
+and the like.
+3D Movies
+3D movies are created with applications that are generally written in C and
+C++.
+Those applications need to be very efficient and fast, since they handle a huge
+amount of data and do many calculations per second. The more efficient they
+are, the
+less time it takes for the artists and animators to generate the movie shots,
+and the
+more money the company saves.
+Embedded Systems Imagine that you wake up one day and go shopping. The
+alarm clock that wakes you
+up is likely programmed in C. Then you use your microwave or coffee maker to
+make
+your breakfast. They are also embedded systems and therefore are probably
+programmed in C. You turn on your TV or radio while you eat your breakfast.
+Those
+are also embedded systems, powered by C. When you open your garage door
+with the
+remote control you are also using an embedded system that is most likely
+programmed in C.
+
+Then you get into your car. If it has the following features, also programmed in
+C:
+automatic transmission
+tire pressure detection systems
+sensors (oxygen, temperature, oil level, etc.)
+memory for seats and mirror settings.
+dashboard display
+anti-lock brakes
+automatic stability control
+cruise control
+climate control

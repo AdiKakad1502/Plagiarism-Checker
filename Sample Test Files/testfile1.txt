@@ -1,0 +1,85 @@
+C is a procedural programming language developed by Dennis Ritchie between
+1969 and 1973. It was mainly developed as a system programming language to
+write operating systems.
+The main features of C include low – level access to memory, simplest set of
+keywords, and clean style. These features make C language suitable for system
+programming
+like operating systems or compiler development.
+Despite the generality of high – level languages, C continues to empower the
+world. Some systems that are used by millions of people and are programmed
+in C are mentioned below -:
+Microsoft Windows, Linux, OS X, iOS, Android and Windows Phone kernels are
+written mostly in C.
+Databases including Oracle, MySQL and PostgreSQL are coded in C (and C++).
+Learning C has a lot of benefits but the foremost thing is that it helps us to
+understand the underlying architecture of how things work.
+Consider a situation in which a man has to buy a car. What he can do is he can
+buy a car with advanced technological features such as auto-driving mode
+and auto gear changing. But if he buys a car which does not provide him these
+features, he will learn how these things actually works. For a person who is
+comfortable
+with a manual car will easily adapt an automated car, but for a person who
+only knows how to drive an automated car will take some time to switch to a
+manual car.
+Similarly, if a person learns C programming language first, it will help him to
+learn other high-level languages as it helps him/her to understand the
+underlying
+architecture of operating systems.
+Some important advantages of learning C programming language
+
+C is a middle level language. The middle-level languages are somewhere
+
+between the Low-level machine understandable assembly languages and High-
+Level
+
+user-friendly languages. Being a middle- level language, it is as close to the
+
+machine language as possible. It reduces the gap between low-level and high-
+level languages.
+
+Helps us to understand the fundamentals of Computer Theories. Most of the
+theories related to computers like Computer Networks, Compiler Designing,
+Computer Architecture and Operating systems are based on C programming
+language. In the modern high-level languages, the machine level details are
+hidden
+from the user, so in order to work with CPU cache, memory, network adapters,
+learning C programming is a must.
+Fewer Libraries – C has fewer libraries in comparison to modern high-level
+languages. Hence, learning C clears the concepts of programming to a great
+extent
+as you have to write a lot of things from scratch rather than using a library
+function for it.
+C is very fast in terms of execution time. Programs written and compiled in C
+executes much faster than compared to any other programming language. C
+programming
+language is very fast in terms of execution as it does not have any additional
+processing overheads such as garbage collection or preventing memory leaks
+etc.
+The programmer must take care of these things on his own.
+Memory Manipulation – Arbitrary memory address access and pointer
+arithmetic is an important feature that makes C a perfect fit for system
+programming
+(operating systems and compiler designing).
+C versus other languages
+C versus C++ -: C++ is an extension of C. While still being C-like in syntax and
+approach, C++ provides many genuinely useful features that aren’t
+
+available natively in C; namespaces, templates, exceptions, automatic memory
+management and so on.
+C versus Java -: Java syntax borrows a great deal from C and C++. Unlike C,
+though, Java doesn’t by default compile to native code. The “write once, run
+anywhere”
+philosophy behind Java also allows Java programs to run with relatively little
+tweaking for a target architecture. By contrast, although C has been ported to
+a
+great many architectures, any given C program may still need customization to
+run properly on, say, Windows versus Linux.
+C versus Python -: Python emphasizes on speed of development rather than
+speed of execution. A program that may take an hour to be assembled in C can
+be
+assembled in minutes using Python while that program may take seconds to
+execute in C, but a minute to run in Python.
+Another major difference in memory management. Python programs are fully
+memory managed by Python runtime, so developers don’t have to worry about
+allocating and freeing memory. On the other hand, writing C programs requires
+tremendous attention to memory management.
